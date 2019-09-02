@@ -7,4 +7,9 @@ let result;
 // let myRegex = /Hello/;
 
 // result = myRegex.test(myString);
-// console.log(result);
+
+// let petString = "James has a pet cat";
+// let petRegex = /dog | cat| bird | fish/
+// result = petRegex.test(petString);
+
+console.log(result);
