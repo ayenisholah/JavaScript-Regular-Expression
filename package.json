@@ -1,0 +1,21 @@
+{
+  "name": "JavaScript-Regular-Expression",
+  "version": "1.0.0",
+  "description": "There's nothing regular about Regular Expressions",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayenisholah/JavaScript-Regular-Expression.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayenisholah/JavaScript-Regular-Expression/issues"
+  },
+  "homepage": "https://github.com/ayenisholah/JavaScript-Regular-Expression#readme"
+}

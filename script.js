@@ -23,5 +23,9 @@ let myRegex;
 // myRegex = /coding/
 // result = myString.match(myRegex);
 
+// let testStr = "Repeat, Repeat, Repeat";
+// let ourRegex = /Repeat/g
+// result = testStr.match(ourRegex);
+
 
 console.log(result);
